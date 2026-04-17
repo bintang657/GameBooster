@@ -20,7 +20,7 @@ dependencies:
   
   # Device information
   device_info_plus: ^10.1.2
-  battery_plus: ^5.1.0
+  battery_plus: any
   shared_preferences: ^2.3.2
   
   # Permissions
